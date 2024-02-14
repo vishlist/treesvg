@@ -268,3 +268,11 @@
 </defs>
 </svg>
 
+<style> 
+.treesvg svg {
+stroke-dasharray: 200;
+  stroke-dashoffset: var(--stroke-offset);
+}
+</style>
+  
+
